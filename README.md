@@ -90,7 +90,8 @@ src/
 ### Prerequisites
 - Node.js 20+
 - npm or yarn
-- Backend API running on http://localhost:4000
+- Backend API running on http://localhost:4000 
+if you have backend api running on some other port, configure in environment variables.
 
 ### Installation
 
